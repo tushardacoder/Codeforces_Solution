@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tower_of_boxes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ef21516c45718d8a1410dd1b9637a6a4035cce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tower_of_boxes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tower_of_boxes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
